@@ -8,6 +8,6 @@
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
-    <img height ="100px" width="150px" src="./img/photos/photo4">
+    <img height ="100px" width="150px" src="./strona/img/photos/photo4">
 </body>
 </html>
